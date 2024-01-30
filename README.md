@@ -6,7 +6,7 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - :school: 3rd year computer science student at ESI Algiers, Algeria.
-- 🌱 I’m currently learning ... JetPack compose and react.
+- 🌱 I’m currently learning JetPack compose and react.
 <br/>
 
 ### Languages and Tools:
