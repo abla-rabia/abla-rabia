@@ -2,7 +2,7 @@
 # Assalamu alaykum, I'm Abla Rabia 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](la_rabia@esi.dz)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:la_rabia@esi.dz)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - :school: 3rd year computer science student at ESI Algiers, Algeria.
