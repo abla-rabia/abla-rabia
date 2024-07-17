@@ -35,8 +35,7 @@
   
 </div>
 <br/>
-
-<details>
-  <summary> Languages Used</summary>
+<summary> Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&layout=compact">
-</details>
+
+
