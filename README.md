@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:la_rabia@esi.dz)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- :school: 4th year software engineering student at ESI Algiers, Algeria.
+- :school: 4th year software engineering student @ ESI Algiers, Algeria.
 - 🌱 I’m currently learning JetPack compose.
 <br/>
 
