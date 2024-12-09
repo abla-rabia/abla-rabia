@@ -1,5 +1,6 @@
-
-# Assalamu alaykum, I'm Abla Rabia 👋
+<div position="center">
+#  Abla Rabia 
+</div>
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/)
@@ -7,8 +8,9 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - :school: 4th year software engineering student @ ESI Algiers, Algeria.
-- 📝 I'm currently exploring Machine Learning and Generative AI while enhancing my skills in web and mobile development.
-- 💻 I'm currently working on personal projects and looking to collaborate on impactful projects that benefit the Ummah.
+- 📚 I'm currently exploring Machine Learning and Generative AI while enhancing my skills in web and mobile development.
+- 💻 I'm also working on personal projects and looking to collaborate on impactful projects that benefit the Ummah.
+  
 
 <br/>
 
