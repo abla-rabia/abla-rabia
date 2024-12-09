@@ -33,9 +33,9 @@
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40">
 </div>
 <br/>
-<div align="center">
+<div>
  
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 </div>
 <br/>
 
