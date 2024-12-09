@@ -34,6 +34,12 @@
 </div>
 ###Stats
 <br/>
+<div align="center">
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=abla-rabia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=abla-rabia&theme=dracula&hide_border=false)<br/><br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&layout=compact)
 <br/>
 
