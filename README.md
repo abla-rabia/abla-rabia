@@ -7,6 +7,9 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - :school: 4th year software engineering student @ ESI Algiers, Algeria.
+- 📝 I'm currently exploring Machine Learning and Generative AI while enhancing my skills in web and mobile development.
+- 💻 I'm currently working on personal projects and looking to collaborate on impactful projects that benefit the Ummah.
+
 <br/>
 
 ### Languages and Tools:
@@ -28,11 +31,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="40">
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="40">
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40">
-
-  
-
-  
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br/>
 
 
