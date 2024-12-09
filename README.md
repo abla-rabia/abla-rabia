@@ -1,6 +1,6 @@
-<div position="center">
-#  Abla Rabia 
-</div>
+
+# Abla Rabia 
+
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/)
