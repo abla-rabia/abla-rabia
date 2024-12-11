@@ -8,8 +8,7 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - :school: 4th year software engineering student @ ESI Algiers, Algeria.
-- 📚 I'm currently exploring Machine Learning and Generative AI while enhancing my skills in web and mobile development.
-- 💻 I'm also working on personal projects and looking to collaborate on impactful projects that benefit the Ummah.
+- ☕ Fueled by coffee, tea, and cats.
   
 
 <br/>
