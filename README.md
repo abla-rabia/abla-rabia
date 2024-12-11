@@ -6,11 +6,12 @@
 <h3 align="center">Reach me through the following links</h3>
 
 ###
-
+<div align=center>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:la_rabia@esi.dz)
-
-<h3 align="center">About me</h3>
+</div>
+</br>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -21,7 +22,7 @@
 
 <br/>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 ###
 
 <div display="flex">
