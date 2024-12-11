@@ -1,11 +1,18 @@
 
-# Abla Rabia 
+<h1 align="center">Abla Rabia</h1>
 
+###
 
+<h3 align="center">Reach me through the following links</h3>
+
+###
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:la_rabia@esi.dz)
-<!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<h3 align="center">About me</h3>
+
+###
 
 - :school: 4th year software engineering student @ ESI Algiers, Algeria.
 - 💻 Junior web and mobile developer, debugging by day, dreaming in code by night.
@@ -14,7 +21,9 @@
 
 <br/>
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools</h3>
+###
+
 <div display="flex">
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40">   
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="40">   
