@@ -23,7 +23,7 @@
 <br/>
 
 <h3 align="left">Languages and Tools</h3>
-###
+
 
 <div display="flex">
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40">   
