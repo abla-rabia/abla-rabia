@@ -24,7 +24,8 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons i=androidstudio,c,css,django,docker,github,git,html,java,js,jquery,kotlin,linux,mysql,nodejs,ps,php,postman,py,react,sqlite,ubuntu,vscode,tensorflow&perline=8)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,c,css,django,docker,github,git,html,java,js,jquery,kotlin,linux,mysql,nodejs,ps,php,postman,py,react,sqlite,ubuntu,vscode,tensorflow)](https://skillicons.dev)
 
 <br/>
  
