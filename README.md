@@ -23,13 +23,13 @@
 <br/>
 
 <h3 align="left">Languages and Tools</h3>
-<div display="flex">
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,c,css,django,docker,github,git,html,java,js,jquery,kotlin,linux,mysql,nodejs,ps,php,postman,py,react,sqlite,ubuntu,vscode,tensorflow&perline=8)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons i=androidstudio,c,css,django,docker,github,git,html,java,js,jquery,kotlin,linux,mysql,nodejs,ps,php,postman,py,react,sqlite,ubuntu,vscode,tensorflow&perline=8)](https://skillicons.dev)
 
 <br/>
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)<br/><br/>
-</div>
+
 <br/>
 
 
