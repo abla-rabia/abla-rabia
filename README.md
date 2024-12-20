@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">Reach me through the following links</h3>
+<h3>Reach me through the following links</h3>
 
 ###
 
