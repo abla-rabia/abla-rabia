@@ -29,7 +29,7 @@
 
 <br/>
  
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)<br/><br/>
+ ![](https://github-readme-stats-psi-seven-55.vercel.app/api/top-langs/?username=abla-rabia&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)<br/><br/>
 
 <br/>
 
