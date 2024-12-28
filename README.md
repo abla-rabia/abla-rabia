@@ -28,9 +28,9 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,c,css,django,docker,github,git,html,java,js,jquery,kotlin,linux,mysql,nodejs,ps,php,postman,py,react,sqlite,ubuntu,vscode,tensorflow)](https://skillicons.dev)
 
 <br/>
- 
- ![](https://github-readme-stats-git-master-abla-rabias-projects.vercel.app/api/top-langs/?username=abla-rabia&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)<br/><br/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abla-rabia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 <br/>
 
 
