@@ -46,4 +46,4 @@
 
 ---
 
-<h3 align="center" style="color: #FF5733;">I'm open to collaborating on impactful projects for the Ummah!🚀</h3>
+<h3 align="center" style="color: #FF5733;">I'm open to collaborating on impactful projects !🚀</h3>
