@@ -1,7 +1,7 @@
 <h1 align="center">Abla Rabia</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts;Exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=001a23&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts;Currently+exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
 </div>
 
 ---
@@ -41,7 +41,6 @@
 <h3 align="left" style="color: #FF5733;">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abla-rabia&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=abla-rabia&theme=dark&hide_border=true&border_radius=5" height="180" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
