@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abla Rabia! 👋</h1>
+<h1 align="center">Abla Rabia</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts;Problem-Solver+with+a+Curious+Mind" alt="Typing SVG" />
@@ -47,4 +47,4 @@
 
 ---
 
-<h3 align="center" style="color: #FF5733;">✨ Let's Code the Future Together! 🚀</h3>
+<h3 align="center" style="color: #FF5733;">I'm open to collaborating on impactful projects for the Ummah!🚀</h3>
