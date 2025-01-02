@@ -1,7 +1,7 @@
 <h1 align="center">Abla Rabia</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts;Problem-Solver+with+a+Curious+Mind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts;Exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,13 +18,13 @@
 
 ---
 
-<h3 align="left" style="color: #FF5733;">👩‍💻 About Me</h3>
+<h3 align="left" style="color: #FF5733;">💻 About Me</h3>
 <ul style="color: #D3D3D3;">
   <li>🎓 4th-year Software Engineering student @ <strong>ESI Algiers, Algeria</strong>.</li>
   <li>💻 Junior web and mobile developer with a love for crafting intuitive and engaging user experiences.</li>
   <li>🔬 Passionate about research and diving deep into complex concepts.</li>
   <li>🧠 Thrives on solving challenging problems and finding innovative solutions.</li>
-  <li>☕ Fueled by coffee, tea, and the occasional cat meme.</li>
+  <li>☕ Fueled by coffee, tea, and cats.</li>
 </ul>
 
 ---
