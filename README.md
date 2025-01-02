@@ -1,7 +1,7 @@
 <h1 align="center">Abla Rabia</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=608e61&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts;Currently+exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=608e61&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts" alt="Typing SVG" />
 </div>
 
 ---
