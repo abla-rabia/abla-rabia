@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center" style="color: #FF5733;">🌐 Connect With Me</h3>
+<h3 align="center" style="color: #FF5733;">Reach me through the following links</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
