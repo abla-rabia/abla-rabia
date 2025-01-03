@@ -21,9 +21,8 @@
 <h3 align="left" style="color: #FF5733;">💻 About Me</h3>
 <ul style="color: #D3D3D3;">
   <li>🎓 4th-year Software Engineering student @ <strong>ESI Algiers, Algeria</strong>.</li>
-  <li>💻 Junior web and mobile developer with a love for crafting intuitive and engaging user experiences.</li>
+  <li>💻 Junior web and mobile developer.</li>
   <li>🔬 Passionate about research and diving deep into complex concepts.</li>
-  <li>🧠 Thrives on solving challenging problems and finding innovative solutions.</li>
   <li>☕ Fueled by coffee, tea, and cats.</li>
 </ul>
 
