@@ -41,14 +41,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abla-rabia&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=abla-rabia&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abla-rabia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abla-rabia&"  />
-</div>
 
 ---
 
