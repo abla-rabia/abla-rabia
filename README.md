@@ -27,12 +27,6 @@
   <li>🔬 Passionate about research and diving deep into complex concepts.</li>
   <li>☕ Fueled by coffee, tea, and cats.</li>
 </ul>
-🎓 4th-year Software Engineering student @ ESI Algiers, Algeria.
-💻 Junior web and mobile developer | Currently learning ML & exploring AI.
-🔨 Building personal web projects & developing an Arabic compiler.
-📚 Ask me about algorithms, descendant analysis, procedural programming, and data structures.
-🔬 Passionate about research, diving deep into complex concepts.
-☕ Fueled by coffee, tea, and cats.
 
 ---
 
