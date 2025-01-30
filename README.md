@@ -21,10 +21,18 @@
 <h3 align="left" style="color: #FF5733;">💻 About Me</h3>
 <ul style="color: #D3D3D3;">
   <li>🎓 4th-year Software Engineering student @ <strong>ESI Algiers, Algeria</strong>.</li>
-  <li>💻 Junior web and mobile developer.</li>
+  <li>💻 Junior web and mobile developer | Currently learning ML & exploring AI.</li>
+  <li>🔨 Currently, I'm building personal web projects & developing an Arabic compiler.</li>
+  <li>📚 Ask me about algorithms, descendant analysis, procedural programming, and data structures.</li>
   <li>🔬 Passionate about research and diving deep into complex concepts.</li>
   <li>☕ Fueled by coffee, tea, and cats.</li>
 </ul>
+🎓 4th-year Software Engineering student @ ESI Algiers, Algeria.
+💻 Junior web and mobile developer | Currently learning ML & exploring AI.
+🔨 Building personal web projects & developing an Arabic compiler.
+📚 Ask me about algorithms, descendant analysis, procedural programming, and data structures.
+🔬 Passionate about research, diving deep into complex concepts.
+☕ Fueled by coffee, tea, and cats.
 
 ---
 
