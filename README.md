@@ -1,52 +1,45 @@
 <h1 align="center">Abla Rabia</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=608e61&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Passionate+Web+%26+Mobile+Developer;Love+Research+%26+Exploring+Deep+Concepts" alt="Typing SVG" />
-</div>
-
----
-
-<h3 align="center" style="color: #FF5733;">Reach me through the following links</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/abla-rabia-%F0%9F%87%B5%F0%9F%87%B8-982147231/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:la_rabia@esi.dz">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+<p align="center">
+🎓 Final-year CS Engineering Student at <strong>ESI Algiers</strong><br>
+🧠 AI & Optimization Research Enthusiast · 🎨 UI/UX Designer<br>
+</p>
 
 ---
 
-<h3 align="left" style="color: #FF5733;">💻 About Me</h3>
-<ul style="color: #D3D3D3;">
-  <li>🎓 4th-year Software Engineering student @ <strong>ESI Algiers, Algeria</strong>.</li>
-  <li>💻 Junior web and mobile developer | Currently learning ML & exploring AI.</li>
-  <li>🔨 Currently, I'm building personal web projects & developing an Arabic compiler.</li>
-  <li>📚 Ask me about algorithms, descendant analysis, procedural programming, and data structures.</li>
-  <li>🔬 Passionate about research and diving deep into complex concepts.</li>
-  <li>☕ Fueled by coffee, tea, and cats.</li>
-</ul>
+### 💡 About Me
+
+- 💻 Passionate about **AI research**, especially in:
+  - Deep Learning & Computer Vision
+  - AI for Healthcare
+  - Optimization Algorithms
+  - Human-Centered & Accessible AI
+- 🛠️ Experienced in: Python · TensorFlow · OpenCV · Scikit-learn · React · Kotlin · Django
 
 ---
 
-<h3 align="left" style="color: #FF5733;">🛠️ Tech Stack</h3>
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,css,django,docker,github,git,html,java,js,jquery,kotlin,linux,mysql,nodejs,ps,php,postman,py,react,sqlite,ubuntu,vscode,tensorflow" alt="My Skills" />
-  </a>
-</div>
+### 📌 Current Projects
+
+- 🎯 **Smart Aid & Health Assistant**  
+  A mobile app to support **real-time training and decision-making** for emergency field personnel.
 
 ---
 
-<h3 align="left" style="color: #FF5733;">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abla-rabia&show_icons=true&theme=highcontrast&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&layout=compact&theme=highcontrast&hide_border=true" height="180" alt="Top Languages" />
+### 🌐 Let's Connect
 
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AblaRabia-blue?logo=linkedin)](https://linkedin.com/in/abla-rabia)
+[![Email](https://img.shields.io/badge/Email-la_rabia@esi.dz-red?logo=gmail)](mailto:la_rabia@esi.dz)
 
 ---
 
-<h3 align="center" style="color: #FF5733;">I'm open to collaborating on impactful projects !🚀</h3>
+
+### 🧰 Tools & Tech
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</p>
