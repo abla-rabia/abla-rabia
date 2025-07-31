@@ -43,3 +43,9 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
+
+### 📊 GitHub Language Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abla-rabia&layout=compact&theme=default" alt="Top Languages">
+</p>
