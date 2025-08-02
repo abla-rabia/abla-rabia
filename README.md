@@ -10,10 +10,9 @@
 
 - 💻 Passionate about **AI research**, especially in:
   - Deep Learning & Computer Vision
-  - AI for Healthcare
+  - AI for Medicine
   - Optimization Algorithms
-  - Human-Centered & Accessible AI
-- 🛠️ Experienced in: Python · TensorFlow · OpenCV · Scikit-learn · React · Kotlin · Django
+- 🛠️ Experienced in: Python · TensorFlow · Keras · OpenCV · Scikit-learn · React · Kotlin · Django
 
 ---
 
