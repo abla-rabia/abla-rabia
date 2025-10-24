@@ -16,13 +16,6 @@
 
 ---
 
-### 📌 Current Projects
-
-- 🎯 **Smart Aid & Health Assistant**  
-  A mobile app to support **real-time training and decision-making** for emergency field personnel.
-
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AblaRabia-blue?logo=linkedin)](https://linkedin.com/in/abla-rabia)
