@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 - 💻 Passionate about **AI research** for Medicine
-- 
+
 ---
 
 ### 🌐 Let's Connect
