@@ -3,7 +3,7 @@
 # 🌸 Hi, I'm Abla Rabia! 👋
 
 🎓 **Computer Science Engineer (Graduate @ ESI Algiers)**  
-🧠 **DL for Medical Imaging ** 
+🧠 **DL for Medical Imaging** 
 
 ---
 
