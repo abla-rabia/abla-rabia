@@ -31,5 +31,6 @@
 ---
 
 <div align="center">
-<i>"Bridging AI innovation with medical impact and intuitive design."</i> 🤍
+<i>"Cherish that which benefits you, seek help from Allah, and do not lose heart."</i><br>
+<b>— Prophet Muhammad (ﷺ)</b> 🤍
 </div>
